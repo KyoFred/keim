@@ -1,0 +1,4 @@
+# template configuration
+applications:
+ - name: client
+   type: webresource

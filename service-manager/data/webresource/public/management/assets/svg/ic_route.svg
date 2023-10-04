@@ -1,0 +1,34 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_18_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_22">
+   <stop offset="0" stop-color="#fcf9f9"/>
+   <stop offset="1" stop-color="#030606"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="26" width="26" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_3"/>
+  <g id="svg_4"/>
+  <g id="svg_5"/>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <rect fill-opacity="0.03" filter="url(#svg_18_blur)" stroke="#7f7f7f" transform="rotate(-49 12,12) " id="svg_18" height="14.004477" width="13.933063" y="4.997762" x="5.033469" stroke-width="1.5" fill="url(#svg_22)"/>
+ </g>
+</svg>

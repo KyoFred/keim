@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html ng-app="eoa.client">
+<head lang="en">
+    <style>
+        .eo-splash {position:absolute; left:0; right:0; top:0; bottom:0; flex-flow: column nowrap;
+            background: #eeeeee url('theme/splash.svg') no-repeat center center; background-size: 62%;
+            display: flex; display:-webkit-flex; display:-ms-flexbox;
+            justify-content: center; -webkit-justify-content:center; -ms-flex-pack:center;
+            align-items: center; color:#737373; -webkit-align-items:center; -ms-flex-align:center;
+            -webkit-transition: opacity 1000ms ease-in-out; -moz-transition: opacity 1000ms ease-in-out;
+            -o-transition: opacity 1000ms ease-in-out; transition: opacity 1000ms ease-in-out; z-index: 99999; }
+        .eo-splash.error { color: red;}
+        .eo-splash.leave { opacity:0; }
+    </style>
+    <!-- inject:css -->
+    <link rel="stylesheet" href="eoa.min.css">
+    <!-- endinject -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+    <title ng-bind="$root.pageTitle"></title>
+</head>
+<body>
+    <div class="eo-splash" ng-class="{error: error}" ng-bind="splashMsg"></div>
+    <div ui-view id="main-view"></div>
+    <!-- inject:js -->
+    <script src="eoa.min.js"></script>
+    <!-- endinject -->
+    <!-- [BUILDSTAMP] -->
+</body>
+</html>

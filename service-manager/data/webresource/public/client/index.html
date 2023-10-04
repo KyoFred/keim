@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>yuuvis® RAD client</title>
+
+  <base href="/app/client/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" id="favIcon" href="" sizes="any">
+  <style>
+
+    html, body {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    #splash {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background: rgb(244, 244, 244);
+      background: radial-gradient(ellipse at center, rgba(244, 244, 244, 1) 0%, rgba(238, 238, 238, 1) 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #splash img {
+      width: 50%;
+    }
+
+  </style>
+
+<link rel="stylesheet" href="styles.css"></head>
+<body>
+<link rel="stylesheet" href="assets/_default/theme/theme.css">
+<eo-root>
+  <div id="splash"><img src="assets/_default/theme/splash.svg"></div>
+</eo-root>
+<script src="runtime.js" type="module"></script><script src="polyfills.js" type="module"></script><script src="vendor.js" type="module"></script><script src="main.js" type="module"></script></body>
+</html>
+<!-- build time: 2023-09-08T13:07:16.007UTC -->

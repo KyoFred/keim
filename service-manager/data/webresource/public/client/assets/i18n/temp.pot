@@ -1,0 +1,1754 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "eo.favorites.list.title"
+msgstr ""
+
+msgid "eo.inbox.sort.title"
+msgstr ""
+
+msgid "eo.inbox.sort.date"
+msgstr ""
+
+msgid "eo.inbox.list.title"
+msgstr ""
+
+msgid "eo.notifications.list.title"
+msgstr ""
+
+msgid "eo.notifications.sort.title"
+msgstr ""
+
+msgid "eo.notifications.sort.type"
+msgstr ""
+
+msgid "eo.notifications.sort.due"
+msgstr ""
+
+msgid "eo.search.result.error"
+msgstr ""
+
+msgid "eo.clipboard.paste.resultlist.headline"
+msgstr ""
+
+msgid "eo.prepare.list.title"
+msgstr ""
+
+msgid "eo.prepare.list.item.type.undefined"
+msgstr ""
+
+msgid "eo.state.process"
+msgstr ""
+
+msgid "eo.search.title"
+msgstr ""
+
+msgid "eo.search.query.invalid"
+msgstr ""
+
+msgid "eo.bar.button.settings.title"
+msgstr ""
+
+msgid "eo.state.settings.language.error"
+msgstr ""
+
+msgid "eo.user.service.schema.locale.error.title"
+msgstr ""
+
+msgid "eo.user.service.schema.locale.error.description"
+msgstr ""
+
+msgid "eo.state.settings.presence.error.title"
+msgstr ""
+
+msgid "eo.state.settings.presence.error.description"
+msgstr ""
+
+msgid "eo.state.settings.cache.clear.success"
+msgstr ""
+
+msgid "eo.state.settings.cache.clear.error"
+msgstr ""
+
+msgid "eo.search.title.storedqueries"
+msgstr ""
+
+msgid "eo.versions.list.title"
+msgstr ""
+
+msgid "eo.action.finalize.label"
+msgstr ""
+
+msgid "eo.action.finalize.description"
+msgstr ""
+
+msgid "eo.document.open.error.title"
+msgstr ""
+
+msgid "eo.document.open.error.message"
+msgstr ""
+
+msgid "eo.object.indexdata.save.browsernav"
+msgstr ""
+
+msgid "eo.action.create.resubmission.label"
+msgstr ""
+
+msgid "eo.action.create.resubmission.description"
+msgstr ""
+
+msgid "eo.object.inlinemenu.editresubmission"
+msgstr ""
+
+msgid "eo.object.inlinemenu.addresubmission"
+msgstr ""
+
+msgid "eo.resubmission.field.due"
+msgstr ""
+
+msgid "eo.resubmission.field.info"
+msgstr ""
+
+msgid "eo.resubmission.field.notification.inbox"
+msgstr ""
+
+msgid "eo.resubmission.field.notification.email"
+msgstr ""
+
+msgid "eo.action.create.subscription.label"
+msgstr ""
+
+msgid "eo.action.create.subscription.description"
+msgstr ""
+
+msgid "eo.object.inlinemenu.addsubscription"
+msgstr ""
+
+msgid "eo.subscription.field.info"
+msgstr ""
+
+msgid "eo.subscription.field.notification.inbox"
+msgstr ""
+
+msgid "eo.subscription.field.notification.email"
+msgstr ""
+
+msgid "eo.subscription.field.mode.entries.meta.label"
+msgstr ""
+
+msgid "eo.subscription.field.mode.entries.both.label"
+msgstr ""
+
+msgid "eo.subscription.field.mode.entries.content.label"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.label"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.description"
+msgstr ""
+
+msgid "eo.clipboard.title"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.link.label"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.link.description"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.link.successful"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.link.error"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.file.label"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.file.description"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.file.pdf.label"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.file.pdf.description"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.copy.label"
+msgstr ""
+
+msgid "eo.action.menu.clipboard.copy.description"
+msgstr ""
+
+msgid "eo.action.menu.custom.error.message"
+msgstr ""
+
+msgid "eo.action.clipboard.cut.label"
+msgstr ""
+
+msgid "eo.action.clipboard.cut.description"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.label"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.description"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.done.title"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.done.message"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.error.403"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.error.409"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.error.410"
+msgstr ""
+
+msgid "eo.action.delete.content.label"
+msgstr ""
+
+msgid "eo.action.delete.content.description"
+msgstr ""
+
+msgid "eo.action.delete.content.success"
+msgstr ""
+
+msgid "eo.action.delete.content.error"
+msgstr ""
+
+msgid "eo.action.download.dms.object.content.label"
+msgstr ""
+
+msgid "eo.action.download.dms.object.content.description"
+msgstr ""
+
+msgid "eo.export.title"
+msgstr ""
+
+msgid "eo.export.action.original.label"
+msgstr ""
+
+msgid "eo.export.action.original.description"
+msgstr ""
+
+msgid "eo.export.action.pdf.label"
+msgstr ""
+
+msgid "eo.export.action.pdf.description"
+msgstr ""
+
+msgid "eo.action.menu.email.label"
+msgstr ""
+
+msgid "eo.action.menu.email.description"
+msgstr ""
+
+msgid "eo.email.title"
+msgstr ""
+
+msgid "eo.action.menu.send.email.link.label"
+msgstr ""
+
+msgid "eo.action.menu.send.email.link.description"
+msgstr ""
+
+msgid "eo.action.menu.send.email.file.label"
+msgstr ""
+
+msgid "eo.action.menu.send.email.file.description"
+msgstr ""
+
+msgid "eo.action.menu.send.email.file.pdf.label"
+msgstr ""
+
+msgid "eo.action.menu.send.email.file.pdf.description"
+msgstr ""
+
+msgid "eo.action.delete.favorite.label"
+msgstr ""
+
+msgid "eo.action.delete.favorite.description"
+msgstr ""
+
+msgid "eo.action.create.favorite.label"
+msgstr ""
+
+msgid "eo.action.create.favorite.description"
+msgstr ""
+
+msgid "eo.action.definalize.label"
+msgstr ""
+
+msgid "eo.action.definalize.description"
+msgstr ""
+
+msgid "eo.action.finalize.confirm"
+msgstr ""
+
+msgid "eo.shortcuts.action.open.context"
+msgstr ""
+
+msgid "eo.shortcuts.action.open.context.description"
+msgstr ""
+
+msgid "eo.shortcuts.aside.action.open"
+msgstr ""
+
+msgid "eo.action.menu.edit.document.label"
+msgstr ""
+
+msgid "eo.action.menu.edit.document.description"
+msgstr ""
+
+msgid "eo.action.menu.show.versions.label"
+msgstr ""
+
+msgid "eo.action.menu.show.versions.description"
+msgstr ""
+
+msgid "eo.action.delete.subscription.label"
+msgstr ""
+
+msgid "eo.action.delete.subscription.description"
+msgstr ""
+
+msgid "eo.action.menu.versioning.version.restore.label"
+msgstr ""
+
+msgid "eo.action.menu.versioning.version.restore.description"
+msgstr ""
+
+msgid "eo.action.manage.rights.read.label"
+msgstr ""
+
+msgid "eo.action.manage.rights.read.description"
+msgstr ""
+
+msgid "eo.manage.rights.document.title"
+msgstr ""
+
+msgid "eo.manage.rights.element.label"
+msgstr ""
+
+msgid "eo.manage.rights.folder.title"
+msgstr ""
+
+msgid "eo.manage.rights.message"
+msgstr ""
+
+msgid "eo.manage.rights.message.notshared"
+msgstr ""
+
+msgid "eo.action.unlock.label"
+msgstr ""
+
+msgid "eo.action.unlock.description"
+msgstr ""
+
+msgid "eo.action.update.resubmission.label"
+msgstr ""
+
+msgid "eo.action.update.resubmission.description"
+msgstr ""
+
+msgid "eo.process.started"
+msgstr ""
+
+msgid "eo.add.prepare.fail.title"
+msgstr ""
+
+msgid "eo.add.prepare.fail.msg"
+msgstr ""
+
+msgid "eo.add.title.location.common"
+msgstr ""
+
+msgid "eo.add.title.location"
+msgstr ""
+
+msgid "eo.bar.button.search.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.file.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.execute.actions.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.favorites.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.prepare.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.inbox.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.user.profile.title"
+msgstr ""
+
+msgid "eo.inbox.notification.title"
+msgstr ""
+
+msgid "eo.inbox.notification.body"
+msgstr ""
+
+msgid "eo.process.started.fail"
+msgstr ""
+
+msgid "eo.search.agg.time.span.since"
+msgstr ""
+
+msgid "eo.search.agg.time.span.until"
+msgstr ""
+
+msgid "eo.search.storedquery.save.success"
+msgstr ""
+
+msgid "eo.search.storedquery.save.error"
+msgstr ""
+
+msgid "eo.form.property.organization.request.error.title"
+msgstr ""
+
+msgid "eo.form.property.organization.request.error.msg"
+msgstr ""
+
+msgid "eo.shortcuts.general.title"
+msgstr ""
+
+msgid "eo.shortcuts.action.add"
+msgstr ""
+
+msgid "eo.shortcuts.action.search"
+msgstr ""
+
+msgid "eo.shortcuts.action.logout"
+msgstr ""
+
+msgid "eo.shortcuts.action.adjust.view"
+msgstr ""
+
+msgid "eo.shortcuts.nav.title"
+msgstr ""
+
+msgid "eo.shortcuts.action.dashboard"
+msgstr ""
+
+msgid "eo.shortcuts.action.inbox"
+msgstr ""
+
+msgid "eo.shortcuts.action.intray"
+msgstr ""
+
+msgid "eo.shortcuts.action.favorites"
+msgstr ""
+
+msgid "eo.shortcuts.action.settings"
+msgstr ""
+
+msgid "eo.column.config.info.type.context"
+msgstr ""
+
+msgid "eo.column.config.info.type"
+msgstr ""
+
+msgid "eo.column.config.info.fulltext"
+msgstr ""
+
+msgid "eo.resultlist.grid.filterOoo"
+msgstr ""
+
+msgid "eo.process.task.actions.default.title"
+msgstr ""
+
+msgid "eo.process.details.workitem.load.fail"
+msgstr ""
+
+msgid "eo.process.details.workitem.load.fail.description"
+msgstr ""
+
+msgid "eo.bpm.event.script.execution.error"
+msgstr ""
+
+msgid "eo.process.activity.lock.denied"
+msgstr ""
+
+msgid "eo.process.activity.unlock.denied"
+msgstr ""
+
+msgid "eo.bpm.activity.forward.success"
+msgstr ""
+
+msgid "eo.bpm.activity.forward.error"
+msgstr ""
+
+msgid "eo.process.file.notification.error"
+msgstr ""
+
+msgid "eo.process.file.notification.add.message"
+msgstr ""
+
+msgid "eo.process.file.notification.remove"
+msgstr ""
+
+msgid "eo.process.file.notification.remove.message"
+msgstr ""
+
+msgid "eo.bpm.activity.indexdata.save.success"
+msgstr ""
+
+msgid "eo.bpm.activity.indexdata.save.error"
+msgstr ""
+
+msgid "eo.inbox.activity.confirm.success"
+msgstr ""
+
+msgid "eo.process.item.remove.fail"
+msgstr ""
+
+msgid "eo.favorite.dialog.input.error.title"
+msgstr ""
+
+msgid "eo.favorite.dialog.input.error.message"
+msgstr ""
+
+msgid "eo.favorite.icon.tooltip.add"
+msgstr ""
+
+msgid "eo.favorite.icon.tooltip.remove"
+msgstr ""
+
+msgid "eo.object.lock"
+msgstr ""
+
+msgid "eo.shortcuts.eo-object-details.title"
+msgstr ""
+
+msgid "eo.object.subscription.icon.tooltip.allChanges"
+msgstr ""
+
+msgid "eo.object.subscription.icon.tooltip.meta"
+msgstr ""
+
+msgid "eo.object.subscription.icon.tooltip.content"
+msgstr ""
+
+msgid "eo.references.open.resultlist"
+msgstr ""
+
+msgid "eo.shortcuts.form.title"
+msgstr ""
+
+msgid "eo.shortcuts.form.action.save"
+msgstr ""
+
+msgid "eo.shortcuts.form.action.reset"
+msgstr ""
+
+msgid "eo.shortcuts.form.action.edit"
+msgstr ""
+
+msgid "eo.object.indexdata.save.success"
+msgstr ""
+
+msgid "eo.object.indexdata.save.error"
+msgstr ""
+
+msgid "eo.form.element.tag.ex"
+msgstr ""
+
+msgid "eo.form.element.tag.df"
+msgstr ""
+
+msgid "eo.unique.validation.error.hint"
+msgstr ""
+
+msgid "eo.prepare.created.error.title"
+msgstr ""
+
+msgid "eo.prepare.created.error.message"
+msgstr ""
+
+msgid "eo.prepare.template.error.title"
+msgstr ""
+
+msgid "eo.prepare.template.error.message"
+msgstr ""
+
+msgid "eo.upload.global.error.title"
+msgstr ""
+
+msgid "eo.upload.global.error.description"
+msgstr ""
+
+msgid "eo.prepare.location.title.sysroot"
+msgstr ""
+
+msgid "eo.prepare.location.title.prefix"
+msgstr ""
+
+msgid "eo.prepare.details.type.title"
+msgstr ""
+
+msgid "eo.prepare.details.type.subtitle"
+msgstr ""
+
+msgid "eo.prepare.details.content.subtitle"
+msgstr ""
+
+msgid "eo.prepare.details.indexdata.subtitle"
+msgstr ""
+
+msgid "eo.password.reset.success"
+msgstr ""
+
+msgid "eo.password.reset.error.password.title"
+msgstr ""
+
+msgid "eo.password.reset.error.old.password.message"
+msgstr ""
+
+msgid "eo.password.reset.error.new.password.message"
+msgstr ""
+
+msgid "eo.storedquery.roles"
+msgstr ""
+
+msgid "eo.search.storedqueries.new.title"
+msgstr ""
+
+msgid "eo.search.storedquery.delete.error"
+msgstr ""
+
+msgid "eo.storedquery.search.term"
+msgstr ""
+
+msgid "eo.storedquery.restriction.type"
+msgstr ""
+
+msgid "eo.storedquery.share.title"
+msgstr ""
+
+msgid "eo.storedquery.sharedfor.title"
+msgstr ""
+
+msgid "eo.storedquery.favor.title"
+msgstr ""
+
+msgid "eo.storedquery.favoredfor.title"
+msgstr ""
+
+msgid "eo.bar.button.copy.tooltip"
+msgstr ""
+
+msgid "eo.bar.button.cut.tooltip"
+msgstr ""
+
+msgid "eo.action.clipboard.move.error"
+msgstr ""
+
+msgid "eo.clipboard.paste.label"
+msgstr ""
+
+msgid "eo.clipboard.move.not.allowed"
+msgstr ""
+
+msgid "eo.action.clipboard.copy.error"
+msgstr ""
+
+msgid "eo.clipboard.copy.not.allowed"
+msgstr ""
+
+msgid "eo.help.about.claim"
+msgstr ""
+
+msgid "eo.help.about.product.label"
+msgstr ""
+
+msgid "eo.help.about.client.version.label"
+msgstr ""
+
+msgid "eo.help.about.producer.label"
+msgstr ""
+
+msgid "eo.help.about.producer.text"
+msgstr ""
+
+msgid "eo.help.license.title"
+msgstr ""
+
+msgid "eo.help.license.intro"
+msgstr ""
+
+msgid "eo.dashboard.info.inbox.msg"
+msgstr ""
+
+msgid "eo.dashboard.info.intray.msg"
+msgstr ""
+
+msgid "eo.quicksearch.hits"
+msgstr ""
+
+msgid "eo.quicksearch.reults.empty"
+msgstr ""
+
+msgid "eo.quicksearch.result.group.global"
+msgstr ""
+
+msgid "eo.sidebar.navigation.storedqueries"
+msgstr ""
+
+msgid "eo.dashboard.modified.title"
+msgstr ""
+
+msgid "eo.list.refresh"
+msgstr ""
+
+msgid "eo.list.filter"
+msgstr ""
+
+msgid "eo.favorites.filter.title"
+msgstr ""
+
+msgid "eo.favorites.filter.section.objecttype"
+msgstr ""
+
+msgid "eo.list.sort"
+msgstr ""
+
+msgid "eo.object.actions.title"
+msgstr ""
+
+msgid "eo.favorite.details.item.gone.remove"
+msgstr ""
+
+msgid "eo.inbox.filter.title"
+msgstr ""
+
+msgid "eo.inbox.filter.section.type"
+msgstr ""
+
+msgid "eo.state.login.username"
+msgstr ""
+
+msgid "eo.state.login.password"
+msgstr ""
+
+msgid "eo.state.login.tenant"
+msgstr ""
+
+msgid "eo.state.login.msg.invalid"
+msgstr ""
+
+msgid "eo.state.login.host"
+msgstr ""
+
+msgid "eo.state.login.submit"
+msgstr ""
+
+msgid "eo.notifications.filter.title"
+msgstr ""
+
+msgid "eo.notifications.filter.section.title"
+msgstr ""
+
+msgid "eo.notifications.filter.section.objecttype"
+msgstr ""
+
+msgid "eo.notifications.list.subtitle"
+msgstr ""
+
+msgid "eo.notifications.details.item.gone.remove"
+msgstr ""
+
+msgid "eo.notifications.details.item.gone.remove.subscriptions"
+msgstr ""
+
+msgid "eo.state.object.tree.filter.label"
+msgstr ""
+
+msgid "eo.state.object.tree.references.tooltip"
+msgstr ""
+
+msgid "eo.state.object.tree.error"
+msgstr ""
+
+msgid "eo.state.object.tree.title"
+msgstr ""
+
+msgid "eo.state.object.tree.references"
+msgstr ""
+
+msgid "eo.timeline.filter.action"
+msgstr ""
+
+msgid "eo.prepare.list.title.sub"
+msgstr ""
+
+msgid "eo.prepare.details.item.gone.remove"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.model"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.running"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.paused"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.created"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.canceled"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.failed"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.completed"
+msgstr ""
+
+msgid "eo.state.process.filter.labels.starttime"
+msgstr ""
+
+msgid "eo.sort.asc"
+msgstr ""
+
+msgid "eo.sort.desc"
+msgstr ""
+
+msgid "eo.state.process.sort.clear"
+msgstr ""
+
+msgid "eo.filter.by"
+msgstr ""
+
+msgid "eo.sort.by"
+msgstr ""
+
+msgid "eo.grid.sort.date"
+msgstr ""
+
+msgid "eo.process.sort.type"
+msgstr ""
+
+msgid "eo.password.reset"
+msgstr ""
+
+msgid "eo.state.settings.roles"
+msgstr ""
+
+msgid "eo.state.settings.config.cache.system"
+msgstr ""
+
+msgid "eo.state.settings.config.cache.history"
+msgstr ""
+
+msgid "eo.state.settings.config.cache.layout"
+msgstr ""
+
+msgid "eo.state.settings.presence.present"
+msgstr ""
+
+msgid "eo.state.settings.presence.absent"
+msgstr ""
+
+msgid "eo.state.settings.deputies"
+msgstr ""
+
+msgid "eo.state.settings.deputies.label"
+msgstr ""
+
+msgid "eo.state.settings.deputies.cancel"
+msgstr ""
+
+msgid "eo.state.settings.deputies.save"
+msgstr ""
+
+msgid "eo.state.settings.deputies.subsituteof.label"
+msgstr ""
+
+msgid "eo.state.settings.language"
+msgstr ""
+
+msgid "eo.state.settings.language.client"
+msgstr ""
+
+msgid "eo.state.settings.language.schema"
+msgstr ""
+
+msgid "eo.state.settings.permission"
+msgstr ""
+
+msgid "eo.state.settings.others"
+msgstr ""
+
+msgid "eo.state.settings.agent"
+msgstr ""
+
+msgid "eo.state.settings.agent.use"
+msgstr ""
+
+msgid "eo.state.settings.lock"
+msgstr ""
+
+msgid "eo.state.settings.lock.enable"
+msgstr ""
+
+msgid "eo.state.settings.lock.disable"
+msgstr ""
+
+msgid "eo.state.settings.lock.ask"
+msgstr ""
+
+msgid "eo.state.settings.cache"
+msgstr ""
+
+msgid "eo.state.settings.cache.clear"
+msgstr ""
+
+msgid "eo.folder.filter.title"
+msgstr ""
+
+msgid "eo.folder.filter.section.objecttype"
+msgstr ""
+
+msgid "eo.versions.filter.title"
+msgstr ""
+
+msgid "eo.versions.list.users"
+msgstr ""
+
+msgid "eo.versions.list.types"
+msgstr ""
+
+msgid "eo.action.not.available"
+msgstr ""
+
+msgid "eo.actions.sticky.title"
+msgstr ""
+
+msgid "eo.actions.sticky.title.sub.selection"
+msgstr ""
+
+msgid "eo.actions.sticky.title.sub.for"
+msgstr ""
+
+msgid "eo.actions.group.common"
+msgstr ""
+
+msgid "eo.actions.group.further_actions"
+msgstr ""
+
+msgid "eo.export.cancel"
+msgstr ""
+
+msgid "eo.form.property.required"
+msgstr ""
+
+msgid "eo.resubmission.error.msg"
+msgstr ""
+
+msgid "eo.resubmission.error.msg.date"
+msgstr ""
+
+msgid "eo.resubmission.cancel"
+msgstr ""
+
+msgid "eo.resubmission.delete"
+msgstr ""
+
+msgid "eo.resubmission.apply"
+msgstr ""
+
+msgid "eo.resubmission.add"
+msgstr ""
+
+msgid "eo.subscription.field.mode.label"
+msgstr ""
+
+msgid "eo.subscription.error.msg"
+msgstr ""
+
+msgid "eo.subscription.cancel"
+msgstr ""
+
+msgid "eo.subscription.add"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.confirm.message"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.confirm.context.folder.title"
+msgstr ""
+
+msgid "eo.action.delete.dms.object.error.retention.title"
+msgstr ""
+
+msgid "eo.checkout.cancel"
+msgstr ""
+
+msgid "eo.checkout.message"
+msgstr ""
+
+msgid "eo.checkout.yes"
+msgstr ""
+
+msgid "eo.checkout.no"
+msgstr ""
+
+msgid "eo.manage.rights.folder.include.documents.label"
+msgstr ""
+
+msgid "eo.manage.rights.cancel"
+msgstr ""
+
+msgid "eo.manage.rights.apply"
+msgstr ""
+
+msgid "eo.object.indexdata.form.invalid"
+msgstr ""
+
+msgid "eo.object.indexdata.reset"
+msgstr ""
+
+msgid "eo.executable.processes.execute"
+msgstr ""
+
+msgid "eo.add.title.location.subfolder"
+msgstr ""
+
+msgid "eo.add.empty.root.types"
+msgstr ""
+
+msgid "eo.bar.button.logout.title"
+msgstr ""
+
+msgid "eo.bar.button.layout.title"
+msgstr ""
+
+msgid "eo.bar.button.layout.remember"
+msgstr ""
+
+msgid "eo.search.mode.expert"
+msgstr ""
+
+msgid "eo.search.mode.expert.close"
+msgstr ""
+
+msgid "eo.search.clear.search"
+msgstr ""
+
+msgid "eo.search.close"
+msgstr ""
+
+msgid "eo.search.restrict.type"
+msgstr ""
+
+msgid "eo.search.type.abstract"
+msgstr ""
+
+msgid "eo.search.agg.time.span"
+msgstr ""
+
+msgid "eo.search.agg.createdby"
+msgstr ""
+
+msgid "eo.search.agg.modifiedby"
+msgstr ""
+
+msgid "eo.search.restrict.filename"
+msgstr ""
+
+msgid "eo.search.restrict.creation"
+msgstr ""
+
+msgid "eo.search.restrict.modification"
+msgstr ""
+
+msgid "eo.search.restrict.file"
+msgstr ""
+
+msgid "eo.search.group.general"
+msgstr ""
+
+msgid "eo.search"
+msgstr ""
+
+msgid "eo.search.submit"
+msgstr ""
+
+msgid "{{'eo.search.group.general'}}"
+msgstr ""
+
+msgid "eo.search.aside.summary.storedquery"
+msgstr ""
+
+msgid "eo.search.aside.summary"
+msgstr ""
+
+msgid "eo.search.aside.summary.term"
+msgstr ""
+
+msgid "eo.search.aside.summary.contextfoldertypes"
+msgstr ""
+
+msgid "eo.search.aside.summary.types"
+msgstr ""
+
+msgid "eo.search.storedquery.close"
+msgstr ""
+
+msgid "eo.search.storedquery.update"
+msgstr ""
+
+msgid "eo.search.save"
+msgstr ""
+
+msgid "eo.search.reset"
+msgstr ""
+
+msgid "eo.search.summary.empty"
+msgstr ""
+
+msgid "eo.search.mode.expert.result.empty"
+msgstr ""
+
+msgid "eo.sidebar.navigation.favorites"
+msgstr ""
+
+msgid "eo.sidebar.navigation.inbox"
+msgstr ""
+
+msgid "eo.sidebar.navigation.prepare"
+msgstr ""
+
+msgid "eo.sidebar.navigation.process"
+msgstr ""
+
+msgid "eo.sidebar.navigation.notifications"
+msgstr ""
+
+msgid "eo.sidebar.help.about.tooltip"
+msgstr ""
+
+msgid "eo.status.404.title"
+msgstr ""
+
+msgid "eo.status.404.description"
+msgstr ""
+
+msgid "eo.datepicker.calendar.select"
+msgstr ""
+
+msgid "eo.form.property.dynamic.list.empty"
+msgstr ""
+
+msgid "eo.form.input.null"
+msgstr ""
+
+msgid "eo.references.deleted"
+msgstr ""
+
+msgid "eo.references.not.available"
+msgstr ""
+
+msgid "eo.references.search"
+msgstr ""
+
+msgid "eo.references.add"
+msgstr ""
+
+msgid "eo.object.details"
+msgstr ""
+
+msgid "eo.references.search.contextfolder"
+msgstr ""
+
+msgid "eo.search.result.term"
+msgstr ""
+
+msgid "eo.clipboard.type.copy"
+msgstr ""
+
+msgid "eo.cta.button.select.all"
+msgstr ""
+
+msgid "eo.cta.button.add"
+msgstr ""
+
+msgid "eo.form.property.organization.error.usernotfound"
+msgstr ""
+
+msgid "eo.password.reset.toogle.icon"
+msgstr ""
+
+msgid "eo.app.init.fail.title"
+msgstr ""
+
+msgid "eo.app.init.fail.message"
+msgstr ""
+
+msgid "eo.column.config.title"
+msgstr ""
+
+msgid "eo.column.config.action.resetdefault"
+msgstr ""
+
+msgid "eo.column.config.action.close"
+msgstr ""
+
+msgid "eo.column.config.action.save.default"
+msgstr ""
+
+msgid "eo.column.config.action.save"
+msgstr ""
+
+msgid "eo.column.config.headline.current"
+msgstr ""
+
+msgid "eo.column.config.pinned"
+msgstr ""
+
+msgid "eo.column.config.sort"
+msgstr ""
+
+msgid "eo.column.config.headline.available"
+msgstr ""
+
+msgid "eo.sort.clear"
+msgstr ""
+
+msgid "eo.resultlist.grid.searchOoo"
+msgstr ""
+
+msgid "eo.resultlist.grid.selectAll"
+msgstr ""
+
+msgid "eo.reset.filter"
+msgstr ""
+
+msgid "eo.search.result.hits"
+msgstr ""
+
+msgid "eo.process.task.overdue"
+msgstr ""
+
+msgid "eo.process.task.due"
+msgstr ""
+
+msgid "eo.process.details.tab.task"
+msgstr ""
+
+msgid "eo.process.details.tab.progress"
+msgstr ""
+
+msgid "eo.process.details.tab.attachments"
+msgstr ""
+
+msgid "eo.process.details.tab.task.description"
+msgstr ""
+
+msgid "eo.object.preview.not.supported"
+msgstr ""
+
+msgid "eo.favorite.icon.dialog.title"
+msgstr ""
+
+msgid "eo.favorite.icon.dialog.input.label"
+msgstr ""
+
+msgid "eo.favorite.icon.dialog.cancel"
+msgstr ""
+
+msgid "eo.favorite.icon.dialog.save"
+msgstr ""
+
+msgid "eo.versions.detail.glue.tooltip"
+msgstr ""
+
+msgid "eo.object.details.actions.title"
+msgstr ""
+
+msgid "eo.object.reference.tooltip"
+msgstr ""
+
+msgid "eo.object.reference.open"
+msgstr ""
+
+msgid "eo.object.contentlink.tooltip"
+msgstr ""
+
+msgid "eo.object.contentlink"
+msgstr ""
+
+msgid "eo.object.resubmission.tooltip"
+msgstr ""
+
+msgid "eo.object.finalized.tooltip"
+msgstr ""
+
+msgid "eo.object.summary.title"
+msgstr ""
+
+msgid "eo.object.indexdata.title"
+msgstr ""
+
+msgid "eo.object.content.title"
+msgstr ""
+
+msgid "eo.object.history.title"
+msgstr ""
+
+msgid "eo.object.links.title"
+msgstr ""
+
+msgid "eo.object.changes.title"
+msgstr ""
+
+msgid "eo.bpm.nodmsobject"
+msgstr ""
+
+msgid "eo.object.history.filter.modification"
+msgstr ""
+
+msgid "eo.object.history.filter.process"
+msgstr ""
+
+msgid "eo.object.history.filter.informational"
+msgstr ""
+
+msgid "eo.object.history.version"
+msgstr ""
+
+msgid "eo.timeline.empty"
+msgstr ""
+
+msgid "eo.object.history.workflowprocess"
+msgstr ""
+
+msgid "eo.object.history.activity"
+msgstr ""
+
+msgid "eo.references.object.notfound"
+msgstr ""
+
+msgid "eo.references.to.label"
+msgstr ""
+
+msgid "eo.references.from.label"
+msgstr ""
+
+msgid "eo.object.indexdata.save.conflict.dialog.title"
+msgstr ""
+
+msgid "eo.object.indexdata.save"
+msgstr ""
+
+msgid "eo.object.indexdata.save.cancel"
+msgstr ""
+
+msgid "eo.object.indexdata.save.changes"
+msgstr ""
+
+msgid "eo.form.table.options.btn.open"
+msgstr ""
+
+msgid "eo.form.table.options.btn.fit"
+msgstr ""
+
+msgid "eo.form.table.options.btn.csv"
+msgstr ""
+
+msgid "eo.form.table.options.btn.add"
+msgstr ""
+
+msgid "eo.form.table.options.btn.cancel"
+msgstr ""
+
+msgid "eo.form.table.options.checkbox.new.title"
+msgstr ""
+
+msgid "eo.form.table.options.btn.delete"
+msgstr ""
+
+msgid "eo.form.table.options.confirm.delete"
+msgstr ""
+
+msgid "eo.form.table.options.indicator.new"
+msgstr ""
+
+msgid "eo.form.table.options.checkbox.new"
+msgstr ""
+
+msgid "eo.form.table.options.btn.copy"
+msgstr ""
+
+msgid "eo.form.table.options.btn.save"
+msgstr ""
+
+msgid "eo.form.table.options.btn.ok"
+msgstr ""
+
+msgid "eo.form.property.daterange.invalid"
+msgstr ""
+
+msgid "eo.form.property.numberrange.invalid"
+msgstr ""
+
+msgid "eo.form.property.number"
+msgstr ""
+
+msgid "{{formElementRef.errors.precision.translateKey}}"
+msgstr ""
+
+msgid "{{formElementRef.errors.scale.translateKey}}"
+msgstr ""
+
+msgid "eo.form.property.string.regex.nomatch"
+msgstr ""
+
+msgid "eo.form.property.string.error.classification.email"
+msgstr ""
+
+msgid "eo.form.property.string.error.classification.url"
+msgstr ""
+
+msgid "eo.form.property.string.error.whitespaces"
+msgstr ""
+
+msgid "eo.form.property.date.invalid"
+msgstr ""
+
+msgid "eo.form.property.codesystem.value.invalid"
+msgstr ""
+
+msgid "eo.form.property.maxlength"
+msgstr ""
+
+msgid "eo.form.property.minlength"
+msgstr ""
+
+msgid "eo.form.property.idreference.deleted"
+msgstr ""
+
+msgid "eo.form.property.orgobject.deleted"
+msgstr ""
+
+msgid "eo.state.object.frontpage.lastchanges"
+msgstr ""
+
+msgid "eo.state.object.frontpage.lastseen"
+msgstr ""
+
+msgid "eo.state.object.frontpage.title"
+msgstr ""
+
+msgid "eo.prepare.content.existscount.message"
+msgstr ""
+
+msgid "eo.prepare.template.filter.text.title"
+msgstr ""
+
+msgid "eo.prepare.template.filter.set.title"
+msgstr ""
+
+msgid "eo.prepare.details.delete.dialog.title"
+msgstr ""
+
+msgid "eo.prepare.details.delete.dialog.message"
+msgstr ""
+
+msgid "eo.prepare.details.delete.content.dialog.title"
+msgstr ""
+
+msgid "eo.prepare.details.delete.content.dialog.message"
+msgstr ""
+
+msgid "eo.prepare.template.abort"
+msgstr ""
+
+msgid "eo.prepare.template.select"
+msgstr ""
+
+msgid "eo.prepare.save"
+msgstr ""
+
+msgid "eo.prepare.saveopen"
+msgstr ""
+
+msgid "eo.prepare.details.type.empty"
+msgstr ""
+
+msgid "eo.prepare.details.type.notallowed"
+msgstr ""
+
+msgid "eo.prepare.details.contents.title"
+msgstr ""
+
+msgid "eo.prepare.template.list.title"
+msgstr ""
+
+msgid "eo.prepare.attachment.info"
+msgstr ""
+
+msgid "eo.prepare.attachment.upload.title"
+msgstr ""
+
+msgid "eo.prepare.attachment.upload.desc"
+msgstr ""
+
+msgid "eo.prepare.attachment.template.title"
+msgstr ""
+
+msgid "eo.prepare.attachment.template.desc"
+msgstr ""
+
+msgid "eo.prepare.attachment.nofile.title"
+msgstr ""
+
+msgid "eo.prepare.attachment.nofile.desc"
+msgstr ""
+
+msgid "eo.prepare.details.delete.dialog.cancel"
+msgstr ""
+
+msgid "eo.prepare.details.delete.dialog.ok"
+msgstr ""
+
+msgid ".title"
+msgstr ""
+
+msgid "eo.process.file.add.label"
+msgstr ""
+
+msgid "eo.bpm.dmsobject.notavailable"
+msgstr ""
+
+msgid "eo.quicksearch.label"
+msgstr ""
+
+msgid "eo.search.suggest"
+msgstr ""
+
+msgid "eo.resultlist.export.csv"
+msgstr ""
+
+msgid "eo.search.objecttype.form.context"
+msgstr ""
+
+msgid "eo.password.reset.current-password"
+msgstr ""
+
+msgid "eo.password.reset.new-password"
+msgstr ""
+
+msgid "eo.password.reset.confirm-password"
+msgstr ""
+
+msgid "eo.password.reset.error.same.password"
+msgstr ""
+
+msgid "eo.password.reset.error.matiching.password"
+msgstr ""
+
+msgid "eo.password.reset.error.new.password.short"
+msgstr ""
+
+msgid "eo.password.reset.error.new.password.number"
+msgstr ""
+
+msgid "eo.password.reset.error.new.password.specialchars"
+msgstr ""
+
+msgid "eo.password.reset.confirm-button"
+msgstr ""
+
+msgid "eo.shortcuts.title"
+msgstr ""
+
+msgid "eo.storedquery.share.sharedwith"
+msgstr ""
+
+msgid "eo.storedquery.share.cancel"
+msgstr ""
+
+msgid "eo.storedquery.share.ok"
+msgstr ""
+
+msgid "eo.storedquery.action.delete"
+msgstr ""
+
+msgid "eo.storedquery.load"
+msgstr ""
+
+msgid "eo.storedquery.action.edit"
+msgstr ""
+
+msgid "eo.storedquery.run"
+msgstr ""
+
+msgid "eo.storedquery.action.cancel"
+msgstr ""
+
+msgid "eo.storedquery.action.save"
+msgstr ""
+
+msgid "eo.storedquery.res.count.label"
+msgstr ""
+
+msgid "eo.versions.details.label"
+msgstr ""
+
+msgid "eo.tabcontainer.arrange"
+msgstr ""
+
+msgid "eo.error.structure.tree.not.available"
+msgstr ""
+
+msgid "eo.clipboard.type.cut"
+msgstr ""
+
+msgid "eo.clipboard.more"
+msgstr ""
+
+msgid "eo.clipboard.paste.as.contentlink.label"
+msgstr ""
+
+msgid "eo.form.table.dialog.preview.hide"
+msgstr ""
+
+msgid "eo.form.table.dialog.preview.show"
+msgstr ""
+
+msgid "eo.indexdata.summary.no.change"
+msgstr ""
+
+msgid "eo.indexdata.summary.more"
+msgstr ""
+
+msgid "eo.global.baseparam.modified"
+msgstr ""
+
+msgid "eo.global.baseparam.modifier"
+msgstr ""
+
+msgid "eo.global.baseparam.created"
+msgstr ""
+
+msgid "eo.global.baseparam.creator"
+msgstr ""
+
+msgid "eo.object.summary.version"
+msgstr ""
+
+msgid "eo.global.baseparam.filename"
+msgstr ""
+
+msgid "eo.global.baseparam.filesize"
+msgstr ""
+
+msgid "eo.global.baseparam.mimegroup"
+msgstr ""
+
+msgid "eo.global.baseparam.mimetype"
+msgstr ""
+
+msgid "eo.global.baseparam.id"
+msgstr ""
+
+msgid "eo.global.baseparam.contentId"
+msgstr ""
+
+msgid "eo.state.settings.storageinfo"
+msgstr ""
+
+msgid "eo.global.baseparam.digest"
+msgstr ""
+
+msgid "eo.object.storageinfo.retention"
+msgstr ""
+
+msgid "eo.object.storageinfo.permanence"
+msgstr ""
+
+msgid "eo.object.storageinfo.setname"
+msgstr ""
+
+msgid "eo.object.storageinfo.storagename"
+msgstr ""
+
+msgid "eo.object.storageinfo.location"
+msgstr ""
+
+msgid "eo.search.scope.all.label"
+msgstr ""
+
+msgid "eo.search.scope.content.label"
+msgstr ""
+
+msgid "eo.search.scope.indexdata.label"
+msgstr ""
+
+msgid "eo.upload.global.context.title"
+msgstr ""
+
+msgid "eo.upload.global.headline"
+msgstr ""
+
+msgid "eo.upload.global.choose.title"
+msgstr ""
+
+msgid "eo.upload.global.choose.message"
+msgstr ""
+
+msgid "eo.upload.global.cancel"
+msgstr ""
+
+msgid "eo.upload.global.choose.single"
+msgstr ""
+
+msgid "eo.upload.global.choose.multi"
+msgstr ""
+
+msgid "eo.upload.global.invalid.title"
+msgstr ""
+
+msgid "eo.upload.global.invalid.message"
+msgstr ""
+
+msgid "eo.upload.global.close"
+msgstr ""
+
+msgid "eo.upload.global.notarget.title"
+msgstr ""
+
+msgid "eo.upload.global.notarget.message"
+msgstr ""
+
+msgid "eo.upload.global.target"
+msgstr ""
+
+msgid "eo.upload.global.root.title"
+msgstr ""
+
+msgid "eo.upload.global.root.description"
+msgstr ""
+
+msgid "eo.upload.global.object.title"
+msgstr ""
+
+msgid "eo.upload.global.object.title.nocontent"
+msgstr ""

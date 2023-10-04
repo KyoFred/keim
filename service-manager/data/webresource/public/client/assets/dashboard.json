@@ -1,0 +1,47 @@
+{
+    "currentWorkspace": "yuv.default.dashboard",
+    "workspaces": [
+      {
+        "id": "yuv.default.dashboard",
+        "label": "eo.workspace.widget.default.dashboard",
+        "preventDelete": true,
+        "preventRename": true,
+        "grid": [
+          {
+            "id": "yuv.wdg.quickSearch",
+            "widgetName": "yuv.widget.quickSearch",
+            "x": 2,
+            "y": 5,
+            "rows": 19,
+            "cols":6
+          },
+          {
+            "id": "yuv.wdg.LastEdited",
+            "widgetName": "yuv.widget.LastEdited",
+            "x": 8,
+            "y": 3,
+            "rows": 25,
+            "cols": 2
+          },
+          {
+            "id": "yuv.wdg.infoIntray",
+            "widgetName": "yuv.widget.infoIntray",
+            "widgetConfig": {"title": "eo.dashboard.info.intray.msg"},
+            "x": 0,
+            "y": 2,
+            "rows": 4,
+            "cols": 2
+          },
+          {
+            "id": "yuv.wdg.infoInbox",
+            "widgetName": "yuv.widget.infoInbox",
+            "widgetConfig": {"title": "eo.dashboard.info.inbox.msg"},
+            "x": 0,
+            "y": 7,
+            "rows": 4,
+            "cols": 2
+          }
+        ]
+      }
+    ]
+  }

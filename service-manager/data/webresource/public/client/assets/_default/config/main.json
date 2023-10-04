@@ -1,0 +1,44 @@
+{
+  "uri": {
+    "serviceBase": "/rest-ws/service",
+    "contextPath": "/"
+  },
+  "search": {
+    "searchMode": "idxs",
+    "trackTotalHits": false,
+    "limit": 50
+  },
+  "languages": [
+    {
+      "iso": "de",
+      "label": "Deutsch"
+    },
+    {
+      "iso": "en",
+      "label": "English",
+      "fallback": true
+    }
+  ],
+  "preview": {
+    "fileSizeLimit": 10485760,
+    "viewers": [
+    ]
+  },
+  "agent": {
+    "alias": ""
+  },
+  "about": {
+    "docu": {
+      "link": "https://help.optimal-systems.com/yuuvisRAD/v90/user/client/###userLang###/index.html",
+      "label": "eo.sidebar.help.manual"
+    }
+  },
+  "dashboardTitle": "yuuvis® RAD client",
+  "dashboardBackgroundImage": "./assets/_default/theme/bgr-dashboard.jpg",
+  "sideBarHeaderImage": "./assets/_default/theme/bgr_sidebar.jpg",
+  "navBarLogo":"./assets/_default/theme/logo.svg",
+  "appLogo": "assets/_default/theme/splash.svg",
+  "systemStatusUpdateInterval": 30000,
+  "objectDetailsTabs": {"master": ["summary", "indexdata", "history", "links", "signature"], "slave": ["preview"]},
+  "favicon": "assets/_default/theme/favicon.ico"
+}
