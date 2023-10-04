@@ -1,0 +1,16 @@
+{
+  "ProjectId": "2f3c4019-9bdd-4606-8efb-060fc52ecd66",
+  "ProjectName": "SchemaDefault",
+  "FileVersion": "4.0",
+  "ContentDirectoryName": "",
+  "Contents": [
+    {
+      "Name": "system.def",
+      "Type": "System"
+    },
+    {
+      "Name": "Taskflow.Taskflow.bpmdef",
+      "Type": "BPM"
+    }
+  ]
+}
