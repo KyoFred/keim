@@ -1,0 +1,6 @@
+{
+    "agent": {
+        "autoconnect": true,
+        "locksettings": "never"
+    }
+}

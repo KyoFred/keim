@@ -1,0 +1,310 @@
+# Roasting Intelligence.
+# Copyright (C) 2015 Cropster.com
+# This file is distributed under the same license as the Roasting Intelligence package.
+# Francesco Novy <francesco@cropster.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cropster Hub Frontend"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: Wed, 29 Nov 2017 19:38:42 GMT"
+"PO-Revision-Date: Wed, 29 Nov 2017 19:38:42 GMT"
+"Last-Translator: Francesco <francesco@cropster.com>"
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"Plural-Forms: nplurals=2; plural=(n != 1);"
+
+msgid "_eo.app.object.content.title"
+msgstr "Inhalt"
+
+msgid "_eo.indexdata.summary.more"
+msgstr "Mehr Informationen"
+
+msgid "_eo.shortcuts.app.nav.title"
+msgstr "Navigation"
+
+msgid "_eo.shortcuts.app.title"
+msgstr "Allgemein"
+
+msgid "_eo.shortcuts.app.action.add"
+msgstr "Objekt anlegen"
+
+msgid "_eo.shortcuts.app.action.dashboard"
+msgstr "Dashboard"
+
+msgid "_eo.shortcuts.app.action.inbox"
+msgstr "Eingangskorb"
+
+msgid "_eo.shortcuts.app.action.intray"
+msgstr "Ablagekorb"
+
+msgid "_eo.shortcuts.app.action.favorites"
+msgstr "Favoriten"
+
+msgid "_eo.shortcuts.app.action.settings"
+msgstr "Einstellungen"
+
+msgid "_eo.shortcuts.app.action.search"
+msgstr "Suchen"
+
+msgid "_eo.shortcuts.app.action.logout"
+msgstr "Abmelden"
+
+msgid "_eo.shortcuts.eo-page.title"
+msgstr "Seite"
+
+msgid "_eo.shortcuts.eo-page.action.undock"
+msgstr "Abdocken"
+
+msgid "_eo.state.object.tree.filter.label"
+msgstr "Filtern"
+
+msgid "_eo.app.init.fail.config"
+msgstr ""
+
+msgid "_eo.app.init.fail.auth"
+msgstr ""
+
+msgid "_eo.user.service.schema.locale.error.title"
+msgstr "Sprache der Objektdefinition"
+
+msgid "_eo.user.service.schema.locale.error.description"
+msgstr "Sprache der Objektdefinition konnte nicht geändert werden. Möglicherweise sind Sie nicht mit dem Server verbunden."
+
+msgid "_eo.app.add.prepare.fail.title"
+msgstr "Das Objekt konnte nicht angelegt werden"
+
+msgid "_eo.app.add.prepare.fail.msg"
+msgstr ""
+
+msgid "_eo.favorite.icon.tooltip.added"
+msgstr "Als Favorit hinzugefügt"
+
+msgid "_eo.favorite.icon.tooltip.removed"
+msgstr "Aus Favoriten entfernt"
+
+msgid "_eo.global.number.separator.decimal"
+msgstr ","
+
+msgid "_eo.process.details.workitem.load.fail"
+msgstr "Die Aufgabe konnte nicht geladen werden"
+
+msgid "_eo.process.item.remove.fail"
+msgstr ""
+
+msgid "_eo.shortcuts.eo-object-details.title"
+msgstr "Objekt"
+
+msgid "_eo.shortcuts.action.open.context"
+msgstr "Kontext öffnen"
+
+msgid "_eo.shortcuts.aside.title"
+msgstr "Objekt"
+
+msgid "_eo.shortcuts.aside.action.open"
+msgstr "Öffnen"
+
+msgid "_eo.shortcuts.aside.action.context"
+msgstr "Kontext"
+
+msgid "_eo.shortcuts.form.title"
+msgstr "Formular"
+
+msgid "_eo.shortcuts.form.action.save"
+msgstr "Speichern"
+
+msgid "_eo.shortcuts.form.action.reset"
+msgstr "Zurücksetzen"
+
+msgid "_eo.shortcuts.form.action.edit"
+msgstr "Bearbeiten"
+
+msgid "_eo.tabcontainer.order.question"
+msgstr "Wollen Sie die Reihenfolge speichern?"
+
+msgid "_eo.tabcontainer.order.success"
+msgstr "Reihenfolge wurde geschpeichert"
+
+msgid "_eo.app.init.fail"
+msgstr ""
+
+msgid "_eo.state.login.username"
+msgstr "Benutzername"
+
+msgid "_eo.state.login.password"
+msgstr "Passwort"
+
+msgid "_eo.state.login.msg.invalid"
+msgstr "Die angegebenen Zugangsdaten sind nicht korrekt. Bitte überprüfen Sie Ihre Eingabe."
+
+msgid "_eo.state.login.host"
+msgstr "Host"
+
+msgid "_eo.state.login.submit"
+msgstr "Anmelden"
+
+msgid "_eo.state.object.tree.error"
+msgstr "Die Ordnerstruktur konnte nicht geladen werden"
+
+msgid "_eo.state.object.frontpage.created"
+msgstr "angelegt am"
+
+msgid "_eo.state.object.frontpage.doccount"
+msgstr "{{doccount}} Dokumente"
+
+msgid "_eo.state.object.frontpage.filesize"
+msgstr "Gesamtgröße {{filesize}}"
+
+msgid "_eo.state.object.frontpage.lastchanges"
+msgstr "Letze Änderungen"
+
+msgid "_eo.state.settings.permission"
+msgstr "Berechtigungen"
+
+msgid "_app.search.mode.expert"
+msgstr "Expertenmodus"
+
+msgid "_app.search.aside.summary.storedquery"
+msgstr "Gespeicherte Suche"
+
+msgid "_app.search.aside.summary"
+msgstr "Ihre Suche"
+
+msgid "_app.search.aside.summary.term"
+msgstr "Suchbegriff"
+
+msgid "_app.search.aside.summary.types"
+msgstr "Ergebnistypen"
+
+msgid "_app.search.storedquery.close"
+msgstr "???"
+
+msgid "_app.search.storedquery.update"
+msgstr "???"
+
+msgid "_app.search.summary.empty"
+msgstr "Sie haben bisher keine Suchparameter eingegeben"
+
+msgid "_app.search.mode.expert.result.empty"
+msgstr "Ihre Suchanfrage lieferte keine Treffer"
+
+msgid "_app.search.mode.expert.intro"
+msgstr "Im Expertenmodus können komplexe Suchanfragen formuliert werden"
+
+msgid "_app.search.mode.expert.support.baseparams"
+msgstr "Basisparameter"
+
+msgid "_app.search.mode.expert.support.group"
+msgstr "Gruppe"
+
+msgid "_app.search.mode.expert.support.type"
+msgstr "Typ"
+
+msgid "_app.search.mode.expert.support.field"
+msgstr "Feld"
+
+msgid "_eo.app.object.links.title"
+msgstr "Verweise"
+
+msgid "_form.property.dynamic.list.empty"
+msgstr "Keine Einträge vorhanden"
+
+msgid "_eo.process.task.due"
+msgstr "Fällig am {{date}}"
+
+msgid "_eo.process.task.continue"
+msgstr "Zur Bearbeitung der Aufgabe, muss diese übernommen werden"
+
+msgid "_eo.app.object.summary.title"
+msgstr "Übersicht"
+
+msgid "_eo.object.summary.preview.undock"
+msgstr "Abdocken"
+
+msgid "_eo.object.summary.preview.dock"
+msgstr "Dock"
+
+msgid "_eo.global.baseparam.filename"
+msgstr "Dokumentdatei"
+
+msgid "_eo.global.baseparam.filesize"
+msgstr "Dateigröße"
+
+msgid "_eo.global.baseparam.modified"
+msgstr "Bearbeitet"
+
+msgid "_eo.global.baseparam.modifier"
+msgstr "Bearbeiter"
+
+msgid "_eo.global.baseparam.created"
+msgstr "Erstellt"
+
+msgid "_eo.global.baseparam.creator"
+msgstr "Ersteller"
+
+msgid "_form.property.daterange.invalid"
+msgstr "Bitte geben Sie einen gültigen Datumsbereich an"
+
+msgid "_form.property.numberrange.invalid"
+msgstr "Bitte geben Sie einen gültigen Nummernbereich an"
+
+msgid "_form.property.date.invalid"
+msgstr "Bitte geben Sie ein gültiges Datum ein"
+
+msgid "_form.property.codesystem.value.invalid"
+msgstr "Das Feld darf nur Katalogeinträge enthalten"
+
+msgid "_eo.object.preview.attachments"
+msgstr "Anhänge"
+
+msgid "_eo.quicksearch.label"
+msgstr "Wonach suchen Sie"
+
+msgid "_eo.shortcuts.title"
+msgstr "Anwendungsaktionen"
+
+msgid "_eo.clipboard.more"
+msgstr "und {{moreCount}} weitere Objekte"
+
+msgid "_eo.clipboard.clear"
+msgstr "Alle entfernen"
+
+msgid "_eo.clipboard.type.copy"
+msgstr "Kopieren"
+
+msgid "_eo.clipboard.type.cut"
+msgstr "Auschneiden"
+
+msgid "_eo.upload.global.headline"
+msgstr "Datei(en) hochladen"
+
+msgid "_eo.upload.global.context.title"
+msgstr "Dem Kontext hinzufügen"
+
+msgid "_eo.global.baseparam.type"
+msgstr "Objekttyp"
+
+msgid "_eo.global.baseparam.mimetypegroup"
+msgstr "Dateityp"
+
+msgid "_app.search.aside.summary.filters"
+msgstr "Filter"
+
+msgid "_eo.search.agg.filesize.lt1MB"
+msgstr "Klein (< 1 MB)"
+
+msgid "_eo.search.agg.filesize.lt10MB"
+msgstr "Mittel (1 MB - 10 MB)"
+
+msgid "_eo.search.agg.filesize.lt100MB"
+msgstr "Groß (10 MB - 100 MB)"
+
+msgid "_eo.search.agg.filesize.gt100MB"
+msgstr "Sehr Groß (> 100 MB)"
+
+msgid "_eo.shortcuts.aside.action.preview"
+msgstr "Vorschau"
+
+msgid "_sample.dashboard"
+msgstr "dashboard-de"

@@ -1,0 +1,7 @@
+{
+  "eo.test.key": "test {{key}}",
+  "eo.custom.plugin.sample": "Sample Plugin",
+  "eo.help.about.claim": "Kyocera Enterprise Information Manager is a rapid application development platform for content management and services solution development. Its secure, scalable and flexible low-code environment allows you to model a solution that meets your business needs quickly and efficiently.",
+  "eo.help.license.intro": "This document contains licensing information with supplementary conditions for third-party components integrated into Kyocera Enterprise Information Manager client. The licensing information and supplementary conditions become a part of the KYOCERA Document Solutions Inc. software licensing agreement as a result of this reference.",
+  "eo.help.about.producer.text": "KYOCERA Document Solutions Inc."
+}

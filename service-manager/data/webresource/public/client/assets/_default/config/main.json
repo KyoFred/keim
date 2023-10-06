@@ -13,11 +13,16 @@
       "iso": "de",
       "label": "Deutsch"
     },
+	
     {
       "iso": "en",
       "label": "English",
       "fallback": true
-    }
+    },
+	{
+			"iso": "it",
+			"label": "Italian"
+		}
   ],
   "preview": {
     "fileSizeLimit": 10485760,

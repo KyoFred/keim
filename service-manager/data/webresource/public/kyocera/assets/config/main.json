@@ -1,0 +1,45 @@
+{
+  "uri": {
+    "serviceBase": "/rest-ws/service",
+    "searchBase": "/search",
+    "contextBase": "/structure",
+    "inboxBase": "/inboxservice",
+    "bpmBase": "/bpm",
+    "agentBase": "/agent"
+  },
+  "search": {
+    "searchMode": "idxs",
+    "limit": 100
+  },
+  "languages": [
+    {
+      "iso": "de",
+      "label": "Deutsch"
+    },
+    {
+      "iso": "en",
+      "label": "English",
+      "fallback": true
+    },
+	{
+			"iso": "it",
+			"label": "Italian"
+		}
+  ],
+  "agent": {
+    "alias": "",
+    "autoconnect": false
+  },
+  "about": {
+    "docu": {
+      "link": "https://help.enaio.com/redline4/user/###userLang###/index.html",
+      "label": "eo.sidebar.help.manual"
+    },
+    "headerLogo": "./assets/icon_keim_about.svg"
+  },
+  "dashboardTitle": "Kyocera Enterprise Information Manager",
+  "dashboardBackgroundImage": "./assets/keim_dashboard.jpg",
+  "sideBarHeaderImage": "./assets/keim_sidebar.jpg",
+  "navBarLogo": "./assets/kyocera_logo_dashboard.svg",
+  "licenseKey": "Optimal_Systems_GmbH__Devs_UmlimitedOEM_31_May_2019__MTU1OTI1NzIwMDAwMA==f9a0c9ce183f739058295d6a64a30c84"
+}

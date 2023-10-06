@@ -1,0 +1,310 @@
+# Roasting Intelligence.
+# Copyright (C) 2015 Cropster.com
+# This file is distributed under the same license as the Roasting Intelligence package.
+# Francesco Novy <francesco@cropster.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cropster Hub Frontend"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: Wed, 29 Nov 2017 19:38:43 GMT"
+"PO-Revision-Date: Wed, 29 Nov 2017 19:38:43 GMT"
+"Last-Translator: Francesco <francesco@cropster.com>"
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"Plural-Forms: nplurals=2; plural=(n != 1);"
+
+msgid "_eo.app.object.content.title"
+msgstr "Content"
+
+msgid "_eo.indexdata.summary.more"
+msgstr "More information"
+
+msgid "_eo.shortcuts.app.nav.title"
+msgstr "Navigation"
+
+msgid "_eo.shortcuts.app.title"
+msgstr "General"
+
+msgid "_eo.shortcuts.app.action.add"
+msgstr "Create objects"
+
+msgid "_eo.shortcuts.app.action.dashboard"
+msgstr "Dashboard"
+
+msgid "_eo.shortcuts.app.action.inbox"
+msgstr "Inbox"
+
+msgid "_eo.shortcuts.app.action.intray"
+msgstr "In-tray"
+
+msgid "_eo.shortcuts.app.action.favorites"
+msgstr "Favorites"
+
+msgid "_eo.shortcuts.app.action.settings"
+msgstr "Settings"
+
+msgid "_eo.shortcuts.app.action.search"
+msgstr "Search"
+
+msgid "_eo.shortcuts.app.action.logout"
+msgstr "Logout"
+
+msgid "_eo.shortcuts.eo-page.title"
+msgstr "Page"
+
+msgid "_eo.shortcuts.eo-page.action.undock"
+msgstr "Undock"
+
+msgid "_eo.state.object.tree.filter.label"
+msgstr "Filter"
+
+msgid "_eo.app.init.fail.config"
+msgstr ""
+
+msgid "_eo.app.init.fail.auth"
+msgstr ""
+
+msgid "_eo.user.service.schema.locale.error.title"
+msgstr "Object defninitions locale"
+
+msgid "_eo.user.service.schema.locale.error.description"
+msgstr "Object defninitions locale could not be changed. Maybe you are not connected to the server."
+
+msgid "_eo.app.add.prepare.fail.title"
+msgstr "Object could not be created"
+
+msgid "_eo.app.add.prepare.fail.msg"
+msgstr ""
+
+msgid "_eo.favorite.icon.tooltip.added"
+msgstr "Added to favorites"
+
+msgid "_eo.favorite.icon.tooltip.removed"
+msgstr "Removed from favorites"
+
+msgid "_eo.global.number.separator.decimal"
+msgstr "."
+
+msgid "_eo.process.details.workitem.load.fail"
+msgstr "Could not load task"
+
+msgid "_eo.process.item.remove.fail"
+msgstr ""
+
+msgid "_eo.shortcuts.eo-object-details.title"
+msgstr "Object"
+
+msgid "_eo.shortcuts.action.open.context"
+msgstr "Open context"
+
+msgid "_eo.shortcuts.aside.title"
+msgstr "Object"
+
+msgid "_eo.shortcuts.aside.action.open"
+msgstr "Open"
+
+msgid "_eo.shortcuts.aside.action.context"
+msgstr "Context"
+
+msgid "_eo.shortcuts.form.title"
+msgstr "Form"
+
+msgid "_eo.shortcuts.form.action.save"
+msgstr "Save"
+
+msgid "_eo.shortcuts.form.action.reset"
+msgstr "Reset"
+
+msgid "_eo.shortcuts.form.action.edit"
+msgstr "Edit"
+
+msgid "_eo.tabcontainer.order.question"
+msgstr "Do you want to save the order?"
+
+msgid "_eo.tabcontainer.order.success"
+msgstr "Order saved"
+
+msgid "_eo.app.init.fail"
+msgstr ""
+
+msgid "_eo.state.login.username"
+msgstr "Username"
+
+msgid "_eo.state.login.password"
+msgstr "Password"
+
+msgid "_eo.state.login.msg.invalid"
+msgstr "The provided credentials are invalid. Please review your inputs."
+
+msgid "_eo.state.login.host"
+msgstr "Host"
+
+msgid "_eo.state.login.submit"
+msgstr "Login"
+
+msgid "_eo.state.object.tree.error"
+msgstr "Folder structure could not be loaded"
+
+msgid "_eo.state.object.frontpage.created"
+msgstr "created on"
+
+msgid "_eo.state.object.frontpage.doccount"
+msgstr "{{doccount}} documents"
+
+msgid "_eo.state.object.frontpage.filesize"
+msgstr "Total size {{filesize}}"
+
+msgid "_eo.state.object.frontpage.lastchanges"
+msgstr "Last changes"
+
+msgid "_eo.state.settings.permission"
+msgstr "Permissions"
+
+msgid "_app.search.mode.expert"
+msgstr "Expert Mode"
+
+msgid "_app.search.aside.summary.storedquery"
+msgstr "Stored query"
+
+msgid "_app.search.aside.summary"
+msgstr "Your query"
+
+msgid "_app.search.aside.summary.term"
+msgstr "Search term"
+
+msgid "_app.search.aside.summary.types"
+msgstr "Target types"
+
+msgid "_app.search.storedquery.close"
+msgstr ""
+
+msgid "_app.search.storedquery.update"
+msgstr ""
+
+msgid "_app.search.summary.empty"
+msgstr "You have not entered any search criteria until now"
+
+msgid "_app.search.mode.expert.result.empty"
+msgstr "Your query returned no hits"
+
+msgid "_app.search.mode.expert.intro"
+msgstr "In expert mode you can run complex search queries"
+
+msgid "_app.search.mode.expert.support.baseparams"
+msgstr "Baseparameters"
+
+msgid "_app.search.mode.expert.support.group"
+msgstr "Group"
+
+msgid "_app.search.mode.expert.support.type"
+msgstr "Type"
+
+msgid "_app.search.mode.expert.support.field"
+msgstr "Field"
+
+msgid "_eo.app.object.links.title"
+msgstr "Links"
+
+msgid "_form.property.dynamic.list.empty"
+msgstr "No entries available"
+
+msgid "_eo.process.task.due"
+msgstr "Due on {{date}}"
+
+msgid "_eo.process.task.continue"
+msgstr "In order to continue, you need to accept this task"
+
+msgid "_eo.app.object.summary.title"
+msgstr "Summary"
+
+msgid "_eo.object.summary.preview.undock"
+msgstr "Undock"
+
+msgid "_eo.object.summary.preview.dock"
+msgstr "Dock"
+
+msgid "_eo.global.baseparam.filename"
+msgstr "Content file"
+
+msgid "_eo.global.baseparam.filesize"
+msgstr "File size"
+
+msgid "_eo.global.baseparam.modified"
+msgstr "Edited"
+
+msgid "_eo.global.baseparam.modifier"
+msgstr "Editor"
+
+msgid "_eo.global.baseparam.created"
+msgstr "Created"
+
+msgid "_eo.global.baseparam.creator"
+msgstr "Creator"
+
+msgid "_form.property.daterange.invalid"
+msgstr "Please enter a valid date range"
+
+msgid "_form.property.numberrange.invalid"
+msgstr "Please enter a valid number range"
+
+msgid "_form.property.date.invalid"
+msgstr "Please enter a valid date"
+
+msgid "_form.property.codesystem.value.invalid"
+msgstr "The field should only contain values from the catalog"
+
+msgid "_eo.object.preview.attachments"
+msgstr "Attachments"
+
+msgid "_eo.quicksearch.label"
+msgstr "What are you looking for"
+
+msgid "_eo.shortcuts.title"
+msgstr "Application actions"
+
+msgid "_eo.clipboard.more"
+msgstr "and {{moreCount}} additional objects"
+
+msgid "_eo.clipboard.clear"
+msgstr "Clear"
+
+msgid "_eo.clipboard.type.copy"
+msgstr "Copy"
+
+msgid "_eo.clipboard.type.cut"
+msgstr "Cut"
+
+msgid "_eo.upload.global.headline"
+msgstr "Upload file(s)"
+
+msgid "_eo.upload.global.context.title"
+msgstr "Add to context"
+
+msgid "_eo.global.baseparam.type"
+msgstr "Object type"
+
+msgid "_eo.global.baseparam.mimetypegroup"
+msgstr "File type"
+
+msgid "_app.search.aside.summary.filters"
+msgstr "Filters"
+
+msgid "_eo.search.agg.filesize.lt1MB"
+msgstr "Small (< 1 MB)"
+
+msgid "_eo.search.agg.filesize.lt10MB"
+msgstr "Medium (1 MB - 10 MB)"
+
+msgid "_eo.search.agg.filesize.lt100MB"
+msgstr "Large (10 MB - 100 MB)"
+
+msgid "_eo.search.agg.filesize.gt100MB"
+msgstr "Extra Large (> 100 MB)"
+
+msgid "_eo.shortcuts.aside.action.preview"
+msgstr "Preview"
+
+msgid "_sample.dashboard"
+msgstr "dashboard"
