@@ -1,0 +1,6 @@
+https://account-d.docusign.com/oauth/auth?response_type=code&scope=signature%20impersonation&client_id=d92a1983-fa8c-4294-a67a-03057a99207b&redirect_uri=http://localhost
+
+
+
+JWT eyJlbmMiOiJHVUlEVkFSTEVOIiwiYWxnIjoiT1NDcnlwdCJ9...XzFBQkQ0NzM2NkRFOTA3RDQ1RjMzQjcwNjg0MTE4Qzk1RTBCQ0QxOEEzN0FCQzJEMzRDQTg0Q0YxMzg0MjFEQkJBM0M2RDM5QjczRDYwMDU1MTlFOTlGQ0VEQUJFQUI5Qzc5Qjk0NURDQzc5NzNFNjg5OTQwRDNBMjNDMUZCOTlCOTQ2Q0E1RENBNDFFN0NBQUM4NDU3M0Y0REEyNTIzNTk.
+

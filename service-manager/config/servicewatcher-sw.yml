@@ -1,0 +1,202 @@
+# using with progamm argument --spring.profiles.active=prod
+eureka.instance.preferIpAddress: true
+
+logging:
+  file: ./../../logs/services.log
+  config: ./config/logback.xml
+
+globalEnvironment:
+  SPRING_CLOUD_CONFIG_URI: http://127.0.0.1:${server.port}${spring.cloud.config.server.prefix}
+  SPRING_CLOUD_CONFIG_USERNAME: ${security.user.name}
+  SPRING_CLOUD_CONFIG_PASSWORD: ${security.user.password}
+  eureka.instance.prefer-ip-address: true
+
+applications:
+
+- name: discoveryservice
+  type: microservice
+  profiles: prod,cloud,single
+  instances: 1
+  memory: 64M
+  port: 7261
+  path: ${appBase}/discoveryservice/discoveryservice-app.jar
+
+- name: messagingservice
+  type: microservice
+  profiles: prod,cloud,mq
+  instances: 1
+  memory: 512M
+  port: 7311-7320
+  path: ${appBase}/messagingservice/messagingservice-app.jar
+
+- name: adminservice
+  type: microservice
+  profiles: prod,cloud
+  instances: 1
+  memory: 128M
+  port: 7273
+  path: ${appBase}/adminservice/adminservice-app.jar
+
+- name: dmssidecar
+  type: microservice
+  profiles: prod,cloud,red
+  instances: 1
+  memory: 512M
+  port: 7301
+  path: ${appBase}/dmssidecar/dmssidecar-app.jar
+
+- name: renditionsidecar
+  type: microservice
+  profiles: prod,cloud,red
+  instances: 1
+  memory: 512M
+  port: 7341
+  path: ${appBase}/renditionsidecar/renditionsidecar-app.jar
+
+- name: inboxservice
+  type: microservice
+  profiles: prod,cloud,dbs,red,mq
+  instances: 1
+  memory: 256M
+  port: 7231-7240
+  path: ${appBase}/inboxservice/inboxservice-app.jar
+
+- name: ocrservice
+  type: microservice
+  profiles: prod,cloud,red
+  instances: 0
+  memory: 128M
+  port: 7241-7250
+  path: ${appBase}/ocrservice/ocrservice-app.jar
+  env:
+    ProgramData: null
+    ALLUSERSPROFILE: null
+
+- name: extractionservice
+  type: microservice
+  profiles: prod,cloud
+  instances: 1
+  memory: 128M
+  port: 7211-7220
+  path: ${appBase}/extractionservice/extractionservice-app.jar
+
+- name: indexservice
+  type: microservice
+  profiles: prod,cloud,es,red,mq
+  instances: 1
+  memory: 512M
+  port: 7291-7300
+  path: ${appBase}/indexservice/indexservice-app.jar
+
+- name: templateservice
+  type: microservice
+  profiles: prod,cloud
+  instances: 1
+  memory: 128M
+  port: 7201-7209
+  path: ${appBase}/templateservice/templateservice-app.jar
+
+- name: searchservice
+  type: microservice
+  profiles: prod,cloud,es,red,mq
+  instances: 1
+  memory: 512M
+  port: 7221-7230
+  path: ${appBase}/searchservice/searchservice-app.jar
+
+- name: bpmservice
+  type: microservice
+  profiles: prod,cloud,dbs,red,mq
+  instances: 1
+  memory: 128M
+  port: 7321-7330
+  path: ${appBase}/bpmservice/bpmservice-app.jar
+
+- name: agentservice
+  type: microservice
+  profiles: prod,cloud
+  instances: 1
+  memory: 512M
+  port: 7352-7360
+  path: ${appBase}/agentservice/agentservice-app.jar
+
+- name: gateway
+  type: microservice
+  profiles: prod,cloud,red
+  instances: 1
+  memory: 256M
+  port: 80
+  path: ${appBase}/gateway/gateway-app.jar
+
+- name: clientservice
+  type: microservice
+  profiles: prod,cloud
+  instances: 1
+  memory: 64M
+  port: 7391-7400
+  path: ${appBase}/clientservice/clientservice-app.jar
+
+- name: exchange-xhs
+  type: microservice
+  profiles: prod,cloud,red,mq,exchange
+  instances: 0
+  memory: 512M
+  port: 7361
+  path: ${appBase}/exchange-xhs/exchange-xhs-app.jar
+
+- name: exchange-xrs
+  type: microservice
+  profiles: prod,cloud,red,mq,exchange
+  instances: 0
+  memory: 512M
+  port: 7362-7370
+  path: ${appBase}/exchange-xrs/exchange-xrs-app.jar
+
+- name: archiveservice
+  type: microservice
+  profiles: prod,cloud,rad
+  instances: 0
+  memory: 256M
+  port: 7530-7539
+  path: ${appBase}/archiveservice/archiveservice-app.jar
+
+- name: signingservice
+  type: microservice
+  profiles: prod,cloud
+  instances: 1
+  memory: 256M
+  port: 7255
+  path: ${appBase}/signingservice/signingservice-app.jar
+
+- name: repositorymanager
+  type: microservice
+  profiles: prod,cloud,mq
+  instances: 0
+  arch: x64
+  memory: 768M
+  port: 8010
+  path: ${appBase}/repositorymanager/repositorymanager-app.jar
+- name: management
+  type: webresource
+  path: C:\yuuvis-data\service-manager\data\webresource\public\management\management.zip
+- name: management10
+  type: webresource
+  path: C:\yuuvis-data\service-manager\data\webresource\public\management10\management10.zip
+- name: client
+  type: webresource
+  path: C:\yuuvis-data\service-manager\data\webresource\public\client\client.zip
+- name: structureservice
+  type: executable
+  profiles: prod,red,es,mq
+  instances: 1
+  port: 7461-7469
+  path: ${appBase}/structureservice/structure-service.exe
+- name: viewerservice
+  type: executable
+  profiles: prod,red
+  instances: 1
+  port: 7471-7479
+  path: ${appBase}/viewerservice/viewer-service.exe
+- name: kyocera
+  type: webresource
+  path: C:\yuuvis-data\service-manager\data\webresource\public\kyocera\kyocera.zip

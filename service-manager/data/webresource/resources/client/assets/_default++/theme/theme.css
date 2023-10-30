@@ -1,0 +1,13 @@
+/* Use this file to override the clients styles. */
+
+/* Example setting a new accent color */
+/*
+
+:root {
+  --color-accent-rgb: 131,108,172;
+  --color-accent: rgb(var(--color-accent-rgb));
+  --color-accent-light: #9885ba;
+  --color-accent-darker: #bcafd2;
+}
+
+*/

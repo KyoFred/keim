@@ -1,0 +1,40 @@
+# Gateway configuration
+
+# activating NTLM implicitly deactivates form and basic authentication
+authentication.filter.ntlm: false
+authentication.filter.form: true
+authentication.filter.basic: true
+authentication.filter.ldap: false
+
+# endpoints that can be called (and routed) without prior authentication
+# example: authentication.exposed.endpoints: '/endpoint1/**,/endpoint2/**'
+authentication.exposed.endpoints: '/app/client/**,/app/management10/**'
+
+# path route for calls to the base URL ("/")
+routing.defaultEntryPoint: '/app/client/index.html'
+
+# Controlling value for SameSite of Cookie (https://blog.chromium.org/2019/10/developers-get-ready-for-new.html)
+# cookie.samesite: 'Lax'
+
+# static mapping of endpoints to URLs
+routing.endpoints:
+  - name: 'rest-ws'
+    url: 'http://${enaio.dms.server:localhost:8080}/rest-ws'
+  - name: 'inboxservice'
+    url: 'http://inbox/api/inbox'
+  - name: 'bpm'
+    url: 'http://bpm/api/bpm'
+  - name: 'agent'
+    url: 'http://agent/api/v1'
+  - name: 'search'
+    url: 'http://search/search'
+  - name: 'template'
+    url: 'http://template/api/v1'
+  - name: 'app'
+    url: 'http://client'
+  - name: 'structure'
+    url: 'http://structure'
+  - name: 'viewer'
+    url: 'http://viewer'
+  - name: 'signing'
+    url: 'http://signing/signing'
