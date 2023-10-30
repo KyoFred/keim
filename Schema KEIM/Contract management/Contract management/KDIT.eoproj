@@ -1,0 +1,16 @@
+{
+  "ProjectId": "e7bcfc1d-3d79-426b-8766-3288b14b7f42",
+  "ProjectName": "KDIT",
+  "FileVersion": "4.0",
+  "ContentDirectoryName": "",
+  "Contents": [
+    {
+      "Name": "system.def",
+      "Type": "System"
+    },
+    {
+      "Name": "Renewal_Process.bpmdef",
+      "Type": "BPM"
+    }
+  ]
+}

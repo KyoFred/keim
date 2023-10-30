@@ -1,0 +1,24 @@
+{
+  "ProjectId": "2eb09efa-90ff-4b64-ba76-9a370d1fa18a",
+  "ProjectName": "SignDefault",
+  "FileVersion": "4.0",
+  "ContentDirectoryName": "",
+  "Contents": [
+    {
+      "Name": "system.def",
+      "Type": "System"
+    },
+    {
+      "Name": "Approval-V2.Approval-v2-14.bpmdef",
+      "Type": "BPM"
+    },
+    {
+      "Name": "RaceFlow1.Race Flow1.bpmdef",
+      "Type": "BPM"
+    },
+    {
+      "Name": "Holidayapplicationv4.bpmdef",
+      "Type": "BPM"
+    }
+  ]
+}
